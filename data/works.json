@@ -1,0 +1,58 @@
+{
+  "courses": [
+    {
+      "code": "CPE 401",
+      "name": "Artificial Intelligence",
+      "folder": "course1",
+      "artifacts": [
+        {
+          "title": "Compilation of Activities",
+          "writeup": "This artifact compiles all laboratory activities completed throughout the course. It demonstrates proficiency in applying AI concepts and tools in practical settings, contributing to Student Outcome (SO) [X] which covers the ability to apply knowledge of computing and mathematics appropriate to the discipline. On a personal level, this collection reflects my growth in analytical thinking and hands-on experimentation with AI systems.",
+          "file": "Compilation_of_Activity.pdf"
+        },
+        {
+          "title": "Journal Article",
+          "writeup": "This journal article presents a critical review and analysis of a topic in Artificial Intelligence. It contributes to SO [X] by demonstrating the ability to communicate effectively in written form and engage with current literature in the field. Personally, writing this article strengthened my research skills and deepened my understanding of AI's real-world implications.",
+          "file": "Journal_Article.pdf"
+        },
+        {
+          "title": "AI Project Source Code",
+          "writeup": "This artifact contains the complete source code of our AI project. It contributes to SO [X] covering the ability to design, implement, and evaluate a computing-based solution to meet a given set of requirements. This project pushed me to apply theoretical knowledge into a working system, improving both my coding proficiency and collaborative skills.",
+          "file": "AI_Project_Source_Code.pdf"
+        },
+        {
+          "title": "Project Demo Video",
+          "writeup": "This video demonstrates our working AI model or prototype. It contributes to SO [X] by showcasing the ability to present and demonstrate a functional computing solution. On a personal level, this artifact reflects the culmination of our team's effort and my ability to communicate technical work to a broader audience.",
+          "link": "https://your-video-link-here.com"
+        }
+      ]
+    },
+    {
+      "code": "EGR C204",
+      "name": "Engineering and Society",
+      "folder": "course2",
+      "artifacts": [
+        {
+          "title": "Wadhwani Milestones 1–3",
+          "writeup": "This artifact contains the compiled Wadhwani milestones completed throughout the course. It contributes to SO [X] by demonstrating the ability to identify, formulate, and solve complex engineering problems. Personally, working through these milestones helped me develop an entrepreneurial mindset and a deeper understanding of innovation in an engineering context.",
+          "file": "Wadhwani_Milestones.pdf"
+        },
+        {
+          "title": "MVP Demo",
+          "writeup": "This artifact presents the Minimum Viable Product demo of our proposed solution. It contributes to SO [X] covering the ability to apply engineering design to produce solutions that meet specified needs. This experience taught me how to translate an idea into a tangible product under real constraints.",
+          "link": "https://your-mvp-demo-link-here.com"
+        },
+        {
+          "title": "Final Pitch Deck",
+          "writeup": "This is the final pitch deck presented to evaluate our proposed engineering solution. It contributes to SO [X] by demonstrating effective communication of technical and business ideas to a non-technical audience. Preparing this deck sharpened my presentation and storytelling skills.",
+          "file": "Final_Pitch_Deck.pdf"
+        },
+        {
+          "title": "Video Pitch",
+          "writeup": "This video pitch presents our solution in a concise and compelling format. It contributes to SO [X] by showcasing the ability to communicate complex engineering solutions effectively. Personally, this artifact represents my confidence in public speaking and my ability to advocate for ideas I believe in.",
+          "link": "https://your-video-pitch-link-here.com"
+        }
+      ]
+    }
+  ]
+}
