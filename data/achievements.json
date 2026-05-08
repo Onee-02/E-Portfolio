@@ -1,0 +1,40 @@
+{
+  "achievements": [
+    {
+      "type": "Award",
+      "title": "[Award Title Here]",
+      "date": "[Month Year]",
+      "description": "[Brief description of the award and what it was given for.]"
+    },
+    {
+      "type": "Award",
+      "title": "[Award Title Here]",
+      "date": "[Month Year]",
+      "description": "[Brief description of the award and what it was given for.]"
+    },
+    {
+      "type": "Certification",
+      "title": "[Certification Title Here]",
+      "date": "[Month Year]",
+      "description": "[Brief description of the certification, issuing body, and what it covers.]"
+    },
+    {
+      "type": "Certification",
+      "title": "[Certification Title Here]",
+      "date": "[Month Year]",
+      "description": "[Brief description of the certification, issuing body, and what it covers.]"
+    },
+    {
+      "type": "Competition",
+      "title": "[Competition Title Here]",
+      "date": "[Month Year]",
+      "description": "[Brief description of the competition, your role, and the outcome.]"
+    },
+    {
+      "type": "Competition",
+      "title": "[Competition Title Here]",
+      "date": "[Month Year]",
+      "description": "[Brief description of the competition, your role, and the outcome.]"
+    }
+  ]
+}
